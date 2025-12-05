@@ -1,7 +1,7 @@
 # 🔍 Text-to-SQL Data Query Assistant-- Pathan Afnan Khan
 
 A powerful application that converts natural language queries into SQL queries and visualizes results automatically using AI.
-
+(also check the screenshot folder for sample output ).
 ## 🎯 Features
 
 * **Natural Language Processing** : Ask questions in plain English
